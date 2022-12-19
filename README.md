@@ -20,6 +20,8 @@
 - Playing CTF's at spare time
 - Currently learning Cyber Security Blue Team
 - Making new tool with python
+- Studing Machine Learing AI
+- Studing BlockChain
 
 <br><br>
 
