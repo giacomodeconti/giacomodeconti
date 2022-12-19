@@ -21,7 +21,7 @@
 - Currently learning Cyber Security Blue Team
 - Making new tool with python
 - Studing Machine Learing AI
-- Studing BlockChain
+- Studing BlockChain and Web3
 
 <br><br>
 
