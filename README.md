@@ -17,10 +17,10 @@
 <br>
 
 - Cyber Security Enthusiast
-- Playing CTF's at spare time
+- Make project in free time
 - Currently learning Cyber Security Blue Team
 - Studing Machine Learing AI
-- Studing BlockChain and Web3
+- Studing for CySec Architect
 
 <br><br>
 
